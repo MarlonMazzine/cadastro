@@ -8,6 +8,10 @@ Seja bem vindo ao teste de backend da Wefit.
 
 o docker-compose vai criar um container de um MySQL e você poderá acessar via localhost:3306 e a senha do usuário **root** é **senha_root_123**
 
+### Antes de iniciar o servidor express devemos instalar as dependências do projeto excutando comando abaixo:
+    
+    npm install
+
 ### Para iniciar o servidor express basta executar o seguinte comando:
 
     npm start
